@@ -12,6 +12,12 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% if post.id %}
+  {% assign hyperlink = post.permalink %}
+{% else %}
+  {% assign hyperlink = post.permalink %}
+{% endif %}
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -27,7 +33,7 @@
     {% endif %}
     
     <h2 class="archive__item-title" itemprop="headline">
-      <a href="{{ post.link }}">{{ title }}</a> 
+      <a href="{{ hyperlink }}">{{ title }}</a> 
     </h2>
       
     {% if post.read_time %}
