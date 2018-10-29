@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr Elco Koks"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "Postdoc University of Oxford"
   location         : "Oxford, United Kingdom"
   employer         :
