@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/1/1/2017-paper-title-number-3
 date: 1/1/2017
 venue: 'Natural Hazards'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Husby, T. G., &amp; Koks, E. E. (2017). Household migration in disaster impact analysis: incorporating behavioural responses to risk. Natural Hazards, 87(1), 287-305.'
 ---
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Husby, T. G., & Koks, E. E. (2017). Household migration in disaster impact analysis: incorporating behavioural responses to risk. Natural Hazards, 87(1), 287-305.

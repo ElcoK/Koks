@@ -1,9 +1,9 @@
 ---
-title: "Adaptation to Sea Level Rise: A Multidisciplinary Analysis for Ho Chi Minh City, Vietnam"
+title: "Economic Impacts of Irrigation Constrained Agriculture in the Lower Po Basin"
 collection: publications
 permalink: /publication/1/1/2018-paper-title-number-1
 date: 1/1/2018
-venue: 'Water Resources Research'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Water Economics &amp; Policy'
+citation: 'Perez-Blanco, C. D., Koks, E. E., Calliari, E., &amp; Mysiak, J. (2018). Economic Impacts of Irrigation-Constrained Agriculture in the Lower Po Basin. Water Economics and Policy, 4(01), 1750003.'
 ---
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Perez-Blanco, C. D., Koks, E. E., Calliari, E., & Mysiak, J. (2018). Economic Impacts of Irrigation-Constrained Agriculture in the Lower Po Basin. Water Economics and Policy, 4(01), 1750003.
