@@ -8,7 +8,7 @@
 plugins:
   - jekyll-remote-theme
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
@@ -88,7 +88,7 @@ analytics:
 author:
   name             : "Dr Elco Koks"
   avatar           : "profile.png"
-  bio              : "Global Infrastructure Analyst @ University of Oxford"
+  bio              : "Global Infrastructure Network Analyst @ University of Oxford"
   location         : "Oxford, United Kingdom"
   employer         :
   googlescholar    : "https://scholar.google.nl/citations?user=5RUsOK0AAAAJ&hl=nl"
@@ -105,11 +105,10 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/elcokoks/"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   vine             :
