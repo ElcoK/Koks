@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc in Earth & Economics (Aarde & Economie), Vrije Universiteit Amsterdam, 2010
+* M.Sc in Spatial Economics (STREEM), Vrije Universiteit Amsterdam, 2012
+* Ph.D in Disaster Impact Modelling, Vrije Universiteit Amsterdam, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2017 - Now: Global Infrastructure Network Analyst
+  * Environmental Change Institute (ECI), University of Oxford, United Kingdom
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2016 - Now: Researcher & Lecturer
+  * Institute for Environmental Studies, Vrije Universiteit Amsterdam, the Netherlands
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Matlab
+* Git
 
 Publications
 ======
@@ -54,6 +47,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
