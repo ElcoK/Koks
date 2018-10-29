@@ -4,12 +4,6 @@ collection: publications
 permalink: /publication/1/1/2017-paper-title-number-3
 date: 1/1/2017
 venue: 'Natural Hazards'
-<<<<<<< HEAD
-citation: 'Husby, T. G., &amp; Koks, E. E. (2017). Household migration in disaster impact analysis: incorporating behavioural responses to risk. Natural Hazards,87(1), 287-305.'
----
-Recommended citation: Husby, T. G., & Koks, E. E. (2017). Household migration in disaster impact analysis: incorporating behavioural responses to risk. Natural Hazards,87(1), 287-305.
-=======
 citation: 'Husby, T. G., &amp; Koks, E. E. (2017). Household migration in disaster impact analysis: incorporating behavioural responses to risk. Natural Hazards, 87(1), 287-305.'
 ---
-Recommended citation: Husby, T. G., & Koks, E. E. (2017). Household migration in disaster impact analysis: incorporating behavioural responses to risk. Natural Hazards, 87(1), 287-305. 
->>>>>>> e4280a81b1de401167fd40c3a87886619590b32c
+Recommended citation: Husby, T. G., & Koks, E. E. (2017). Household migration in disaster impact analysis: incorporating behavioural responses to risk. Natural Hazards, 87(1), 287-305.
