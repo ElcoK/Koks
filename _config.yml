@@ -11,7 +11,7 @@ title                    : "Dr Elco Koks        "
 title_separator          : "-"
 name                     : &name "Elco Koks"
 description              : &description "Disaster Impact Modeller"
-url                      : https://elcok.github.io/elcokoks.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://elcok.github.io/elcokoks.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ElcoK/elcokoks.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr Elco Koks"
   avatar           : "profile.png"
-  bio              : "Postdoc University of Oxford"
+  bio              : "Global Infrastructure Analyst @ University of Oxford"
   location         : "Oxford, United Kingdom"
   employer         :
   googlescholar    : "https://scholar.google.nl/citations?user=5RUsOK0AAAAJ&hl=nl"
